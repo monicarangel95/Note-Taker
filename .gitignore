@@ -1,5 +1,2 @@
-  # ignore mac files
+node_modules
 .DS_Store/
-# ignore node modules
-node_modules/
-package-lock.json/
