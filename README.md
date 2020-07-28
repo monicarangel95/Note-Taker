@@ -20,7 +20,7 @@
   Using the terminal type in 'npm install node' and 'npm install express'
   ## Usage
   CD into the server.js folder in terminal, run "node server.js", then open index.html file with live server.
-    <img src = "./public/assets/images/index-taker.png">
+    <img src = "./public/assets/images/index-note-taker.png">
     <img src = "./public/assets/images/Note-taker.png">
   ## Contribution
   Yes, please notify if you would like to contribute. 
