@@ -13,11 +13,15 @@
   An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
   Link to video below:
     https://drive.google.com/file/d/185OseOakBtWujMQRM2fnxpo2yByLuv1m/view 
+  ## Deployed Site
+  https://salty-meadow-85654.herokuapp.com/ 
 
   ## Installation
   Using the terminal type in 'npm install node' and 'npm install express'
   ## Usage
   CD into the server.js folder in terminal, run "node server.js", then open index.html file with live server.
+    <img src = "./public/assets/images/index-taker.png">
+    <img src = "./public/assets/images/Note-taker.png">
   ## Contribution
   Yes, please notify if you would like to contribute. 
   ## Test
