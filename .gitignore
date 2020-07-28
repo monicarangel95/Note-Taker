@@ -1,3 +1,5 @@
+  # ignore mac files
+.DS_Store
+# ignore node modules
 node_modules/
-.gitignore/
-DO-NOT-USE-THIS-README.md/
+package-lock.json
