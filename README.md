@@ -11,6 +11,7 @@
   - [Questions](#questions)
   ## Description
   An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+  <iframe src="https://drive.google.com/file/d/185OseOakBtWujMQRM2fnxpo2yByLuv1m/preview" width="640" height="480"></iframe>
   ## Installation
   Using the terminal type in 'npm install node' and 'npm install express'
   ## Usage
